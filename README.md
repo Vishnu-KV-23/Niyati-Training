@@ -1,4 +1,3 @@
-Here’s a sample `README.md` file for your data analysis project. It outlines the project's purpose, setup instructions, and usage, along with explanations for each section.
 
 ```markdown
 # Data Analysis Project
@@ -65,7 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Seaborn Documentation](https://seaborn.pydata.org/)
 
 ## Contact
-For questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For questions or feedback, please reach out to [your.email@example.com](mailto:wishnukv2349@gmail.com).
 ```
 
 ### Notes:
