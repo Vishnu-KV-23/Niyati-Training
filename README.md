@@ -1,5 +1,4 @@
 
-```markdown
 # Data Analysis Project
 
 ## Overview
@@ -24,7 +23,6 @@ To set up this project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/data-analysis-project.git
    cd data-analysis-project
-   ```
 
 2. **Create a virtual environment (optional but recommended)**:
    ```bash
@@ -37,7 +35,7 @@ To set up this project, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Usage
+   ## Usage
 1. **Prepare Your Data**: Ensure your dataset is formatted correctly and placed in the appropriate directory.
 
 2. **Run the Analysis**: Execute the Jupyter Notebook or Python script to perform the analysis and generate visualizations.
@@ -47,15 +45,8 @@ To set up this project, follow these steps:
 
 3. **View Results**: Analyze the output and visualizations generated in the notebook.
 
-## Visualizations
-The analysis includes the following visualizations:
-- **Line Plot**: Displays the trend of Balance Total over time.
-- **Exports vs Imports Plot**: Compares exports and imports over the years.
-- **Correlation Heatmap**: Shows the relationship between various economic indicators.
-- **Bar Chart**: Compares the balance of goods and services for the years 2000 to 2010.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
@@ -64,12 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Seaborn Documentation](https://seaborn.pydata.org/)
 
 ## Contact
-For questions or feedback, please reach out to [your.email@example.com](mailto:wishnukv2349@gmail.com).
-```
-
-### Notes:
-- Replace `https://github.com/yourusername/data-analysis-project.git` with the actual repository link if you are hosting the project on GitHub.
-- Update the contact information with your own email address or preferred method of communication.
-- Add any additional information relevant to your project, such as specific dataset details or analysis goals. 
-
-Feel free to modify this template to suit your specific project needs! Let me know if you need any further assistance.
+For questions or feedback, please reach out to [wishnukv2349@gmail.com](mailto:wishnukv2349@gmail.com).
